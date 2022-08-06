@@ -29,3 +29,10 @@ htmlcov/
 .direnv
 
 .github/**
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
